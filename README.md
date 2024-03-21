@@ -1,1 +1,3 @@
 # Image-Encryption
+This is a java project which is used to encrypt your images based on your provided key. you can Decrypt the same with the help of your previoys key.
+Thanks for visting the repo...
